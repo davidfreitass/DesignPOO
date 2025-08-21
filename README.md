@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-# Esse reposiório descreve 3 ténicas dentro de POO
-
-# Herança
-
-- Estudar o código e fazer uma breve descriação do que entendeu
-
-# Composição / Associação
-
-- Estudar o código e fazer uma breve descriação do que entendeu
-
-# Injeção de Dependencia
-
-- Estudar o código e fazer uma breve descriação do que entendeu
-=======
 # Esse repositório descreve 3 técnicas dentro de POO
 
 # Herança
@@ -26,4 +11,3 @@
 # Injeção de Dependência
 
 - Injeção de dependência é a melhor das opções, tendo em vista que o código se torna mais escalável e manutenível, pois as funcionalidades das classes são instanciadas diretamente na classe de controle (Main), ajudando na redução do acoplamento.
->>>>>>> e7f183a (Atividade de atualizacao do README)
